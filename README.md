@@ -5,7 +5,7 @@
   Atuação como assistente de suporte técnico (Helpdesk), com foco em resolução de problemas e atendimento ao usuário.<br><br>
   Entusiasta de tecnologia, sempre buscando aprender e evoluir.
 </p>
-###
+
 
 <h3 align="center">Techs</h3>
 
