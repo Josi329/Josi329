@@ -1,11 +1,10 @@
 <h2 align="center">About Me</h2>
 
-<p align="center">
+<p style="text-align: justify; max-width: 800px; margin: 0 auto;">
   Desenvolvedora Frontend com experiência em criação de interfaces responsivas e intuitivas.<br><br>
   Atuação como assistente de suporte técnico (Helpdesk), com foco em resolução de problemas e atendimento ao usuário.<br><br>
   Entusiasta de tecnologia, sempre buscando aprender e evoluir.
 </p>
-
 ###
 
 <h3 align="center">Techs</h3>
